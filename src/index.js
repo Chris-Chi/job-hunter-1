@@ -37,6 +37,7 @@ ReactDOM.render(
                     <Route component={DashBoard}/>
                 </Switch>
             </div>
+            
        </BrowserRouter>
     </Provider>,
     document.getElementById('root')
